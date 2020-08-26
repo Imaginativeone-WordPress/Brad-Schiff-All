@@ -1,28 +1,28 @@
-- [ ] 000 Course content 24 sections • 118 lectures • 26h 4m total length
-	- [ ] 000 01/24 Welcome! 1 lecture • 10min
-		- [ ] 000 Welcome to the Course! Preview | 09:59
-	- [ ] 000 02/24 Getting Started 3 lectures • 31min
-		- [ ] 000 What is a Dev Environment? (Your First Installation) Preview | 13:34
-		- [ ] 000 If You're Unable to Install Local by Flywheel | 00:33
-		- [ ] 000 First Taste of PHP Preview | 16:31
+- [ ] Course content 24 sections • 118 lectures • 26h 4m total length
+	- [ ] 01/24 Welcome! 1 lecture • 10min
+		- [ ] 001 Welcome to the Course! Preview | 09:59
+	- [ ] 02/24 Getting Started 3 lectures • 31min
+		- [ ] 002 What is a Dev Environment? (Your First Installation) Preview | 13:34
+		- [ ] 003 If You're Unable to Install Local by Flywheel | 00:33
+		- [ ] 004 First Taste of PHP Preview | 16:31
 	- [ ] 000 03/24 First Coding Steps: PHP 4 lectures • 40min
-		- [ ] 000 A Note About URLs / My Address Bar | 00:31
-		- [ ] 000 Creating a New Theme | 12:04
-		- [ ] 000 PHP Functions | 14:52
-		- [ ] 000 PHP Arrays | 12:28
+		- [ ] 005 A Note About URLs / My Address Bar | 00:31
+		- [ ] 006 Creating a New Theme | 12:04
+		- [ ] 007 PHP Functions | 14:52
+		- [ ] 008 PHP Arrays | 12:28
 	- [ ] 000 04/24 WordPress Specific PHP 3 lectures • 53min
-		- [ ] 000 The Famous "Loop" in WordPress | 14:30
-		- [ ] 000 Header & Footer | 18:33
-		- [ ] 000 Convert Static HTML Template into WordPress | 19:54
+		- [ ] 009 The Famous "Loop" in WordPress | 14:30
+		- [ ] 010 Header & Footer | 18:33
+		- [ ] 011 Convert Static HTML Template into WordPress | 19:54
 	- [ ] 000 05/24 Pages 8 lectures • 1hr 34min
-		- [ ] 000 Quick Note About The Next Lesson | 00:20
-		- [ ] 000 Interior Page Template | 17:52
-		- [ ] 000 Parent & Children Pages | 16:58
-		- [ ] 000 To Echo or Not To Echo | 09:01
-		- [ ] 000 Menu of Child Page Links | 19:57
-		- [ ] 000 A Few Quick Edits / Improvements | 09:21
-		- [ ] 000 Navigation Menus | 15:37
-		- [ ] 000 Navigation Menus (Continued) | 05:06
+		- [ ] 012 Quick Note About The Next Lesson | 00:20
+		- [ ] 013 Interior Page Template | 17:52
+		- [ ] 014 Parent & Children Pages | 16:58
+		- [ ] 015 To Echo or Not To Echo | 09:01
+		- [ ] 016 Menu of Child Page Links | 19:57
+		- [ ] 017 A Few Quick Edits / Improvements | 09:21
+		- [ ] 018 Navigation Menus | 15:37
+		- [ ] 019 Navigation Menus (Continued) | 05:06
 	- [ ] 000 06/24 Building the Blog Section 5 lectures • 1hr 12min
 		- [ ] 000 Blog Listing Page (index.php vs front-page.php) | 19:58
 		- [ ] 000 Blog Continued | 13:14
