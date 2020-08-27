@@ -53,66 +53,66 @@
 		- [ ] 042 Featured Image Sizes & Cropping | 09:15
 		- [ ] 043 Page Banner Dynamic Background Image | 15:12
 	- [ ] 11/24 Cleaner Code (Less Duplication) 3 lectures • 42min
-		- [ ] 000 Reduce Duplicate Code - Create Our Own Function | 19:50
-		- [ ] 000 Using Our "pageBanner" Function | 10:54
-		- [ ] 000 Reduce Duplication - "get_template_part()" | 11:28
+		- [ ] 044 Reduce Duplicate Code - Create Our Own Function | 19:50
+		- [ ] 045 Using Our "pageBanner" Function | 10:54
+		- [ ] 046 Reduce Duplication - "get_template_part()" | 11:28
 	- [ ] 12/24 Campus Post Type 5 lectures • 1hr 4min
-		- [ ] 000 Note About Google Maps JavaScript API | 01:09
-		- [ ] 000 Campus Post Type | 19:46
-		- [ ] 000 Campus Map on Front-End | 18:28
-		- [ ] 000 Campuses Continued | 19:53
-		- [ ] 000 Final Campus Details | 04:35
+		- [ ] 047 Note About Google Maps JavaScript API | 01:09
+		- [ ] 048 Campus Post Type | 19:46
+		- [ ] 049 Campus Map on Front-End | 18:28
+		- [ ] 050 Campuses Continued | 19:53
+		- [ ] 051 Final Campus Details | 04:35
 	- [ ] 13/24 Live Search (UI JavaScript) 7 lectures • 1hr 25min
-		- [ ] 000 Live Search | 10:06
-		- [ ] 000 Quick Note About The Next Lesson | 01:19
-		- [ ] 000 Open and Close Search Overlay | 18:16
-		- [ ] 000 Preventing the Text Field Suggestions Pop-up | 00:10
-		- [ ] 000 Keyboard Events in JavaScript | 19:38
-		- [ ] 000 Managing Time in JavaScript | 15:32
-		- [ ] 000 Waiting / Loading Spinner Icon | 19:58
+		- [ ] 052 Live Search | 10:06
+		- [ ] 053 Quick Note About The Next Lesson | 01:19
+		- [ ] 054 Open and Close Search Overlay | 18:16
+		- [ ] 055 Preventing the Text Field Suggestions Pop-up | 00:10
+		- [ ] 056 Keyboard Events in JavaScript | 19:38
+		- [ ] 057 Managing Time in JavaScript | 15:32
+		- [ ] 058 Waiting / Loading Spinner Icon | 19:58
 	- [ ] 14/24 WordPress REST API (AJAX) 7 lectures • 1hr 29min
-		- [ ] 000 Quick Note About The Next Lesson | 00:33
-		- [ ] 000 Load WP Content with JS | 17:50
-		- [ ] 000 Generate HTML Based on JSON | 19:58
-		- [ ] 000 Conditional Logic Within Template Literal | 17:49
-		- [ ] 000 Quick Misc Edits | 10:51
-		- [ ] 000 Synchronous vs Asynchronous (Part 1) | 11:45
-		- [ ] 000 Synchronous vs Asynchronous (Part 2) | 10:11
+		- [ ] 059 Quick Note About The Next Lesson | 00:33
+		- [ ] 060 Load WP Content with JS | 17:50
+		- [ ] 061 Generate HTML Based on JSON | 19:58
+		- [ ] 062 Conditional Logic Within Template Literal | 17:49
+		- [ ] 063 Quick Misc Edits | 10:51
+		- [ ] 064 Synchronous vs Asynchronous (Part 1) | 11:45
+		- [ ] 065 Synchronous vs Asynchronous (Part 2) | 10:11
 	- [ ] 15/24 Customizing the REST API 5 lectures • 1hr 6min
-		- [ ] 000 REST API: Add New Custom Field | 15:50
-		- [ ] 000 REST API: Add New Custom Route (URL) | 16:37
-		- [ ] 000 Create Your Own Raw JSON Data | 14:10
-		- [ ] 000 WP_Query and Keyword Searching | 08:24
-		- [ ] 000 Working With Multiple Post Types | 10:40
+		- [ ] 066 REST API: Add New Custom Field | 15:50
+		- [ ] 067 REST API: Add New Custom Route (URL) | 16:37
+		- [ ] 068 Create Your Own Raw JSON Data | 14:10
+		- [ ] 069 WP_Query and Keyword Searching | 08:24
+		- [ ] 070 Working With Multiple Post Types | 10:40
 	- [ ] 16/24 Combining Front-End & Back-End 7 lectures • 1hr 37min
-		- [ ] 000 3 Column Layout for Search Overlay | 19:58
-		- [ ] 000 Custom Layout & JSON based on Post Type | 19:33
-		- [ ] 000 Quick Note About The Next Lesson | 00:21
-		- [ ] 000 Search Logic That's Aware of Relationships | 16:02
-		- [ ] 000 Search Logic That's Aware of Relationships (Part 2) | 19:46
-		- [ ] 000 Completing Our Search Overlay | 14:24
-		- [ ] 000 jQuery Free Live Search | 06:50
+		- [ ] 071 3 Column Layout for Search Overlay | 19:58
+		- [ ] 072 Custom Layout & JSON based on Post Type | 19:33
+		- [ ] 073 Quick Note About The Next Lesson | 00:21
+		- [ ] 074 Search Logic That's Aware of Relationships | 16:02
+		- [ ] 075 Search Logic That's Aware of Relationships (Part 2) | 19:46
+		- [ ] 076 Completing Our Search Overlay | 14:24
+		- [ ] 077 jQuery Free Live Search | 06:50
 	- [ ] 17/24 Non-JS Fallback Traditional Search 2 lectures • 39min
-		- [ ] 000 Traditional WordPress Searching | 19:01
-		- [ ] 000 Traditional WordPress Searching (Part 2) | 19:58
+		- [ ] 078 Traditional WordPress Searching | 19:01
+		- [ ] 079 Traditional WordPress Searching (Part 2) | 19:58
 	- [ ] 18/24 User Roles and Permissions 3 lectures • 54min
-		- [ ] 000 User Roles and Permissions | 19:58
-		- [ ] 000 Open Registration | 19:59
-		- [ ] 000 Open Registration (Part 2) | 13:52
+		- [ ] 080 User Roles and Permissions | 19:58
+		- [ ] 081 Open Registration | 19:59
+		- [ ] 082 Open Registration (Part 2) | 13:52
 	- [ ] 19/24 User Generated Content 13 lectures • 2hr 50min
-		- [ ] 000 "My Notes" Feature | 19:59
-		- [ ] 000 "My Notes" Front-end Part 1 | 07:31
-		- [ ] 000 "My Notes" Front-end Part 2 | 14:55
-		- [ ] 000 Quick Note About The Next Lesson | 00:55
-		- [ ] 000 Delete Posts with the REST API | 17:51
-		- [ ] 000 Edit / Update Posts with the REST API | 18:30
-		- [ ] 000 Creating New Notes | 14:52
-		- [ ] 000 Creating New Notes (Part 2) | 08:48
-		- [ ] 000 Note Permissions and Security (Part 1) | 19:58
-		- [ ] 000 Note Permissions and Security (Part 2) | 19:59
-		- [ ] 000 Per-User Post Limit | 19:56
-		- [ ] 000 Quick Note About CSS | 00:15
-		- [ ] 000 jQuery Free My Notes | 06:13
+		- [ ] 083 "My Notes" Feature | 19:59
+		- [ ] 084 "My Notes" Front-end Part 1 | 07:31
+		- [ ] 085 "My Notes" Front-end Part 2 | 14:55
+		- [ ] 086 Quick Note About The Next Lesson | 00:55
+		- [ ] 087 Delete Posts with the REST API | 17:51
+		- [ ] 088 Edit / Update Posts with the REST API | 18:30
+		- [ ] 089 Creating New Notes | 14:52
+		- [ ] 090 Creating New Notes (Part 2) | 08:48
+		- [ ] 091 Note Permissions and Security (Part 1) | 19:58
+		- [ ] 092 Note Permissions and Security (Part 2) | 19:59
+		- [ ] 093 Per-User Post Limit | 19:56
+		- [ ] 094 Quick Note About CSS | 00:15
+		- [ ] 095 jQuery Free My Notes | 06:13
 	- [ ] 20/24 Like or "Heart" Count for Professors 7 lectures • 1hr 45min
 		- [ ] 000 Let Users "Like" Content (Part 1) | 19:31
 		- [ ] 000 Let Users "Like" Content (Part 2) | 12:54
