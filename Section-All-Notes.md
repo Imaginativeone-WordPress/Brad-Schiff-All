@@ -24,33 +24,34 @@
 		- [ ] 018 Navigation Menus | 15:37
 		- [ ] 019 Navigation Menus (Continued) | 05:06
 	- [ ] 06/24 Building the Blog Section 5 lectures • 1hr 12min
-		- [ ] 000 Blog Listing Page (index.php vs front-page.php) | 19:58
-		- [ ] 000 Blog Continued | 13:14
-		- [ ] 000 Blog Archives (archive.php) | 12:09
-		- [ ] 000 Custom Queries | 19:58
-		- [ ] 000 Blog: Few Quick Edits & Improvements | 06:58
+		- [ ] 020 Blog Listing Page (index.php vs front-page.php) | 19:58
+		- [ ] 021 Blog Continued | 13:14
+		- [ ] 022 Blog Archives (archive.php) | 12:09
+		- [ ] 023 Custom Queries | 19:58
+		- [ ] 024 Blog: Few Quick Edits & Improvements | 06:58
 	- [ ] 07/24 Workflow and Automation 2 lectures • 29min
-		- [ ] 000 Workflow and Automation (Part 1) | 15:55
-		- [ ] 000 Workflow and Automation (Part 2) | 12:42
+		- [ ] 025 Text Document
+		- [ ] 026 Workflow and Automation (Part 1) | 15:55
+		- [ ] 027 Workflow and Automation (Part 2) | 12:42
 	- [ ] 08/24 Events Post Type 8 lectures • 2hr 4min
-		- [ ] 000 Custom Post Types | 19:54
-		- [ ] 000 Displaying Custom Post Types | 19:48
-		- [ ] 000 Quick Timeout: Misc Updates | 14:23
-		- [ ] 000 Custom Fields | 19:09
-		- [ ] 000 A Note About the WordPress Post Edit Screen | 00:24
-		- [ ] 000 Ordering (Sorting) Custom Queries | 14:09
-		- [ ] 000 Manipulating Default URL Based Queries | 17:50
-		- [ ] 000 Past Events Page (Custom Query Pagination) | 18:31
+		- [ ] 028 Custom Post Types | 19:54
+		- [ ] 029 Displaying Custom Post Types | 19:48
+		- [ ] 030 Quick Timeout: Misc Updates | 14:23
+		- [ ] 031 Custom Fields | 19:09
+		- [ ] 032 A Note About the WordPress Post Edit Screen | 00:24
+		- [ ] 033 Ordering (Sorting) Custom Queries | 14:09
+		- [ ] 034 Manipulating Default URL Based Queries | 17:50
+		- [ ] 035 Past Events Page (Custom Query Pagination) | 18:31
 	- [ ] 09/24 Programs Post Type 3 lectures • 47min
-		- [ ] 000 Creating Relationships Between Content | 18:40
-		- [ ] 000 Displaying Relationships (Front-End) | 19:58
-		- [ ] 000 Quick Program Edits | 08:50
+		- [ ] 036 Creating Relationships Between Content | 18:40
+		- [ ] 037 Displaying Relationships (Front-End) | 19:58
+		- [ ] 038 Quick Program Edits | 08:50
 	- [ ] 10/24 Professors Post Type 5 lectures • 1hr 3min
-		- [ ] 000 Quick Note About The Next Lesson | 00:09
-		- [ ] 000 Professors Post Type | 19:12
-		- [ ] 000 Featured Image (Post Thumbnail) | 19:06
-		- [ ] 000 Featured Image Sizes & Cropping | 09:15
-		- [ ] 000 Page Banner Dynamic Background Image | 15:12
+		- [ ] 039 Quick Note About The Next Lesson | 00:09
+		- [ ] 040 Professors Post Type | 19:12
+		- [ ] 041 Featured Image (Post Thumbnail) | 19:06
+		- [ ] 042 Featured Image Sizes & Cropping | 09:15
+		- [ ] 043 Page Banner Dynamic Background Image | 15:12
 	- [ ] 000 11/24 Cleaner Code (Less Duplication) 3 lectures • 42min
 		- [ ] 000 Reduce Duplicate Code - Create Our Own Function | 19:50
 		- [ ] 000 Using Our "pageBanner" Function | 10:54
