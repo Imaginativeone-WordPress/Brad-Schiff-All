@@ -52,17 +52,17 @@
 		- [ ] 041 Featured Image (Post Thumbnail) | 19:06
 		- [ ] 042 Featured Image Sizes & Cropping | 09:15
 		- [ ] 043 Page Banner Dynamic Background Image | 15:12
-	- [ ] 000 11/24 Cleaner Code (Less Duplication) 3 lectures • 42min
+	- [ ] 11/24 Cleaner Code (Less Duplication) 3 lectures • 42min
 		- [ ] 000 Reduce Duplicate Code - Create Our Own Function | 19:50
 		- [ ] 000 Using Our "pageBanner" Function | 10:54
 		- [ ] 000 Reduce Duplication - "get_template_part()" | 11:28
-	- [ ] 000 12/24 Campus Post Type 5 lectures • 1hr 4min
+	- [ ] 12/24 Campus Post Type 5 lectures • 1hr 4min
 		- [ ] 000 Note About Google Maps JavaScript API | 01:09
 		- [ ] 000 Campus Post Type | 19:46
 		- [ ] 000 Campus Map on Front-End | 18:28
 		- [ ] 000 Campuses Continued | 19:53
 		- [ ] 000 Final Campus Details | 04:35
-	- [ ] 000 13/24 Live Search (UI JavaScript) 7 lectures • 1hr 25min
+	- [ ] 13/24 Live Search (UI JavaScript) 7 lectures • 1hr 25min
 		- [ ] 000 Live Search | 10:06
 		- [ ] 000 Quick Note About The Next Lesson | 01:19
 		- [ ] 000 Open and Close Search Overlay | 18:16
@@ -70,7 +70,7 @@
 		- [ ] 000 Keyboard Events in JavaScript | 19:38
 		- [ ] 000 Managing Time in JavaScript | 15:32
 		- [ ] 000 Waiting / Loading Spinner Icon | 19:58
-	- [ ] 000 14/24 WordPress REST API (AJAX) 7 lectures • 1hr 29min
+	- [ ] 14/24 WordPress REST API (AJAX) 7 lectures • 1hr 29min
 		- [ ] 000 Quick Note About The Next Lesson | 00:33
 		- [ ] 000 Load WP Content with JS | 17:50
 		- [ ] 000 Generate HTML Based on JSON | 19:58
@@ -78,13 +78,13 @@
 		- [ ] 000 Quick Misc Edits | 10:51
 		- [ ] 000 Synchronous vs Asynchronous (Part 1) | 11:45
 		- [ ] 000 Synchronous vs Asynchronous (Part 2) | 10:11
-	- [ ] 000 15/24 Customizing the REST API 5 lectures • 1hr 6min
+	- [ ] 15/24 Customizing the REST API 5 lectures • 1hr 6min
 		- [ ] 000 REST API: Add New Custom Field | 15:50
 		- [ ] 000 REST API: Add New Custom Route (URL) | 16:37
 		- [ ] 000 Create Your Own Raw JSON Data | 14:10
 		- [ ] 000 WP_Query and Keyword Searching | 08:24
 		- [ ] 000 Working With Multiple Post Types | 10:40
-	- [ ] 000 16/24 Combining Front-End & Back-End 7 lectures • 1hr 37min
+	- [ ] 16/24 Combining Front-End & Back-End 7 lectures • 1hr 37min
 		- [ ] 000 3 Column Layout for Search Overlay | 19:58
 		- [ ] 000 Custom Layout & JSON based on Post Type | 19:33
 		- [ ] 000 Quick Note About The Next Lesson | 00:21
@@ -92,14 +92,14 @@
 		- [ ] 000 Search Logic That's Aware of Relationships (Part 2) | 19:46
 		- [ ] 000 Completing Our Search Overlay | 14:24
 		- [ ] 000 jQuery Free Live Search | 06:50
-	- [ ] 000 17/24 Non-JS Fallback Traditional Search 2 lectures • 39min
+	- [ ] 17/24 Non-JS Fallback Traditional Search 2 lectures • 39min
 		- [ ] 000 Traditional WordPress Searching | 19:01
 		- [ ] 000 Traditional WordPress Searching (Part 2) | 19:58
-	- [ ] 000 18/24 User Roles and Permissions 3 lectures • 54min
+	- [ ] 18/24 User Roles and Permissions 3 lectures • 54min
 		- [ ] 000 User Roles and Permissions | 19:58
 		- [ ] 000 Open Registration | 19:59
 		- [ ] 000 Open Registration (Part 2) | 13:52
-	- [ ] 000 19/24 User Generated Content 13 lectures • 2hr 50min
+	- [ ] 19/24 User Generated Content 13 lectures • 2hr 50min
 		- [ ] 000 "My Notes" Feature | 19:59
 		- [ ] 000 "My Notes" Front-end Part 1 | 07:31
 		- [ ] 000 "My Notes" Front-end Part 2 | 14:55
@@ -113,7 +113,7 @@
 		- [ ] 000 Per-User Post Limit | 19:56
 		- [ ] 000 Quick Note About CSS | 00:15
 		- [ ] 000 jQuery Free My Notes | 06:13
-	- [ ] 000 20/24 Like or "Heart" Count for Professors 7 lectures • 1hr 45min
+	- [ ] 20/24 Like or "Heart" Count for Professors 7 lectures • 1hr 45min
 		- [ ] 000 Let Users "Like" Content (Part 1) | 19:31
 		- [ ] 000 Let Users "Like" Content (Part 2) | 12:54
 		- [ ] 000 Creating Custom POST and DELETE Endpoints | 14:12
@@ -121,7 +121,7 @@
 		- [ ] 000 Enforce Limit of One Like Per User/Teacher Combo | 17:28
 		- [ ] 000 Completing the LikeBox | 19:45
 		- [ ] 000 jQuery Free LikeBox | 02:18
-	- [ ] 000 21/24 Going Live: Deploying Our WordPress Site 7 lectures • 1hr 19min
+	- [ ] 21/24 Going Live: Deploying Our WordPress Site 7 lectures • 1hr 19min
 		- [ ] 000 Going Live with Our Website | 13:49
 		- [ ] 000 A Note About Google Maps and Our Live Site | 00:16
 		- [ ] 000 Path A (Simple and Quick) | 18:36
@@ -129,14 +129,14 @@
 		- [ ] 000 Database Config for Two Site Environments | 09:58
 		- [ ] 000 Ignoring Certain Files with Git | 07:51
 		- [ ] 000 Automatic Git Deployments to Web Host | 14:22
-	- [ ] 000 22/24 Extra Credit Challenges & Topics 2 lectures • 23min
+	- [ ] 22/24 Extra Credit Challenges & Topics 2 lectures • 23min
 		- [ ] 000 Challenge: Make Homepage Slideshow Dynamic | 09:31
 		- [ ] 000 Challenge: Create a Basic Plugin | 13:45
-	- [ ] 000 23/24 Gutenberg Block Editor Essentials 3 lectures • 51min
+	- [ ] 23/24 Gutenberg Block Editor Essentials 3 lectures • 51min
 		- [ ] 000 Create a Custom Block Type (Part 1) | 19:56
 		- [ ] 000 Create a Custom Block Type (Part 2) | 15:48
 		- [ ] 000 Create a Custom Block Type (Part 3) | 15:21
-	- [ ] 000 24/24 Final Chapter 5 lectures • 37min
+	- [ ] 24/24 Final Chapter 5 lectures • 37min
 		- [ ] 000 Challenge: Have an Update Plan in Place (Security) | 08:12
 		- [ ] 000 Challenge: Query Vars | 12:47
 		- [ ] 000 Finale: JavaScript Next Steps | 06:06
