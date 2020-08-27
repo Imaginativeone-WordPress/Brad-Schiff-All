@@ -5,16 +5,16 @@
 		- [ ] 002 What is a Dev Environment? (Your First Installation) Preview | 13:34
 		- [ ] 003 If You're Unable to Install Local by Flywheel | 00:33
 		- [ ] 004 First Taste of PHP Preview | 16:31
-	- [ ] 000 03/24 First Coding Steps: PHP 4 lectures • 40min
+	- [ ] 03/24 First Coding Steps: PHP 4 lectures • 40min
 		- [ ] 005 A Note About URLs / My Address Bar | 00:31
 		- [ ] 006 Creating a New Theme | 12:04
 		- [ ] 007 PHP Functions | 14:52
 		- [ ] 008 PHP Arrays | 12:28
-	- [ ] 000 04/24 WordPress Specific PHP 3 lectures • 53min
+	- [ ] 04/24 WordPress Specific PHP 3 lectures • 53min
 		- [ ] 009 The Famous "Loop" in WordPress | 14:30
 		- [ ] 010 Header & Footer | 18:33
 		- [ ] 011 Convert Static HTML Template into WordPress | 19:54
-	- [ ] 000 05/24 Pages 8 lectures • 1hr 34min
+	- [ ] 05/24 Pages 8 lectures • 1hr 34min
 		- [ ] 012 Quick Note About The Next Lesson | 00:20
 		- [ ] 013 Interior Page Template | 17:52
 		- [ ] 014 Parent & Children Pages | 16:58
@@ -23,16 +23,16 @@
 		- [ ] 017 A Few Quick Edits / Improvements | 09:21
 		- [ ] 018 Navigation Menus | 15:37
 		- [ ] 019 Navigation Menus (Continued) | 05:06
-	- [ ] 000 06/24 Building the Blog Section 5 lectures • 1hr 12min
+	- [ ] 06/24 Building the Blog Section 5 lectures • 1hr 12min
 		- [ ] 000 Blog Listing Page (index.php vs front-page.php) | 19:58
 		- [ ] 000 Blog Continued | 13:14
 		- [ ] 000 Blog Archives (archive.php) | 12:09
 		- [ ] 000 Custom Queries | 19:58
 		- [ ] 000 Blog: Few Quick Edits & Improvements | 06:58
-	- [ ] 000 07/24 Workflow and Automation 2 lectures • 29min
+	- [ ] 07/24 Workflow and Automation 2 lectures • 29min
 		- [ ] 000 Workflow and Automation (Part 1) | 15:55
 		- [ ] 000 Workflow and Automation (Part 2) | 12:42
-	- [ ] 000 08/24 Events Post Type 8 lectures • 2hr 4min
+	- [ ] 08/24 Events Post Type 8 lectures • 2hr 4min
 		- [ ] 000 Custom Post Types | 19:54
 		- [ ] 000 Displaying Custom Post Types | 19:48
 		- [ ] 000 Quick Timeout: Misc Updates | 14:23
@@ -41,11 +41,11 @@
 		- [ ] 000 Ordering (Sorting) Custom Queries | 14:09
 		- [ ] 000 Manipulating Default URL Based Queries | 17:50
 		- [ ] 000 Past Events Page (Custom Query Pagination) | 18:31
-	- [ ] 000 09/24 Programs Post Type 3 lectures • 47min
+	- [ ] 09/24 Programs Post Type 3 lectures • 47min
 		- [ ] 000 Creating Relationships Between Content | 18:40
 		- [ ] 000 Displaying Relationships (Front-End) | 19:58
 		- [ ] 000 Quick Program Edits | 08:50
-	- [ ] 000 10/24 Professors Post Type 5 lectures • 1hr 3min
+	- [ ] 10/24 Professors Post Type 5 lectures • 1hr 3min
 		- [ ] 000 Quick Note About The Next Lesson | 00:09
 		- [ ] 000 Professors Post Type | 19:12
 		- [ ] 000 Featured Image (Post Thumbnail) | 19:06
