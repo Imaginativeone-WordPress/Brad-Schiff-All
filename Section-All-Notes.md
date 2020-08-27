@@ -114,31 +114,31 @@
 		- [ ] 094 Quick Note About CSS | 00:15
 		- [ ] 095 jQuery Free My Notes | 06:13
 	- [ ] 20/24 Like or "Heart" Count for Professors 7 lectures • 1hr 45min
-		- [ ] 000 Let Users "Like" Content (Part 1) | 19:31
-		- [ ] 000 Let Users "Like" Content (Part 2) | 12:54
-		- [ ] 000 Creating Custom POST and DELETE Endpoints | 14:12
-		- [ ] 000 Programmatically Create a Post | 19:17
-		- [ ] 000 Enforce Limit of One Like Per User/Teacher Combo | 17:28
-		- [ ] 000 Completing the LikeBox | 19:45
-		- [ ] 000 jQuery Free LikeBox | 02:18
+		- [ ] 096 Let Users "Like" Content (Part 1) | 19:31
+		- [ ] 097 Let Users "Like" Content (Part 2) | 12:54
+		- [ ] 098 Creating Custom POST and DELETE Endpoints | 14:12
+		- [ ] 099 Programmatically Create a Post | 19:17
+		- [ ] 100 Enforce Limit of One Like Per User/Teacher Combo | 17:28
+		- [ ] 101 Completing the LikeBox | 19:45
+		- [ ] 102 jQuery Free LikeBox | 02:18
 	- [ ] 21/24 Going Live: Deploying Our WordPress Site 7 lectures • 1hr 19min
-		- [ ] 000 Going Live with Our Website | 13:49
-		- [ ] 000 A Note About Google Maps and Our Live Site | 00:16
-		- [ ] 000 Path A (Simple and Quick) | 18:36
-		- [ ] 000 Path B (Advanced / Manually Moving a Site) | 13:53
-		- [ ] 000 Database Config for Two Site Environments | 09:58
-		- [ ] 000 Ignoring Certain Files with Git | 07:51
-		- [ ] 000 Automatic Git Deployments to Web Host | 14:22
+		- [ ] 103 Going Live with Our Website | 13:49
+		- [ ] 104 A Note About Google Maps and Our Live Site | 00:16
+		- [ ] 105 Path A (Simple and Quick) | 18:36
+		- [ ] 106 Path B (Advanced / Manually Moving a Site) | 13:53
+		- [ ] 107 Database Config for Two Site Environments | 09:58
+		- [ ] 108 Ignoring Certain Files with Git | 07:51
+		- [ ] 109 Automatic Git Deployments to Web Host | 14:22
 	- [ ] 22/24 Extra Credit Challenges & Topics 2 lectures • 23min
-		- [ ] 000 Challenge: Make Homepage Slideshow Dynamic | 09:31
-		- [ ] 000 Challenge: Create a Basic Plugin | 13:45
+		- [ ] 110 Challenge: Make Homepage Slideshow Dynamic | 09:31
+		- [ ] 111 Challenge: Create a Basic Plugin | 13:45
 	- [ ] 23/24 Gutenberg Block Editor Essentials 3 lectures • 51min
-		- [ ] 000 Create a Custom Block Type (Part 1) | 19:56
-		- [ ] 000 Create a Custom Block Type (Part 2) | 15:48
-		- [ ] 000 Create a Custom Block Type (Part 3) | 15:21
+		- [ ] 112 Create a Custom Block Type (Part 1) | 19:56
+		- [ ] 113 Create a Custom Block Type (Part 2) | 15:48
+		- [ ] 114 Create a Custom Block Type (Part 3) | 15:21
 	- [ ] 24/24 Final Chapter 5 lectures • 37min
-		- [ ] 000 Challenge: Have an Update Plan in Place (Security) | 08:12
-		- [ ] 000 Challenge: Query Vars | 12:47
-		- [ ] 000 Finale: JavaScript Next Steps | 06:06
-		- [ ] 000 Using React In Our Project | 06:39
-		- [ ] 000 Bonus Lecture | 03:35
+		- [ ] 115 Challenge: Have an Update Plan in Place (Security) | 08:12
+		- [ ] 116 Challenge: Query Vars | 12:47
+		- [ ] 117 Finale: JavaScript Next Steps | 06:06
+		- [ ] 118 Using React In Our Project | 06:39
+		- [ ] 119 Bonus Lecture | 03:35
